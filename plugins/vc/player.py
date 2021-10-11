@@ -78,7 +78,7 @@ __starts with ! (exclamation mark)__
 
 USERBOT_REPO = f"""{emoji.ROBOT} **BOT BATTLE DESAH**
 
-- Repository: [github](https://github.com/Puutraaa/Desah-userbot)
+- Repository: [github](https://github.com/Puutraaa/Desah-bot)
 - License: AGPL-3.0-or-later"""
 
 # - Pyrogram filters
