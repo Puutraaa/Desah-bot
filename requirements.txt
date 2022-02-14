@@ -1,5 +1,5 @@
 TgCrypto
 ffmpeg-python
 psutil
-py-tgcalls[pyrogram]
+pytgcalls[pyrogram]
 wheel
