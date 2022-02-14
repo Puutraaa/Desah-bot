@@ -2,4 +2,5 @@ TgCrypto
 ffmpeg-python
 psutil
 pytgcalls==3.0.0.dev21
+pyrogram
 wheel
